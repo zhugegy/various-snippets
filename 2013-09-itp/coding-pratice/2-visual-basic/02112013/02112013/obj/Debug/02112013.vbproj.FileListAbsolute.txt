@@ -1,0 +1,12 @@
+D:\1\Intro.Pro\2\02112013\02112013\bin\Debug\02112013.exe.config
+I:\1\Intro.Pro\2\02112013\02112013\bin\Debug\02112013.exe.config
+I:\1\Intro.Pro\2\02112013\02112013\bin\Debug\02112013.exe
+I:\1\Intro.Pro\2\02112013\02112013\bin\Debug\02112013.pdb
+I:\1\Intro.Pro\2\02112013\02112013\bin\Debug\02112013.xml
+I:\1\Intro.Pro\2\02112013\02112013\obj\Debug\02112013.vbprojResolveAssemblyReference.cache
+I:\1\Intro.Pro\2\02112013\02112013\obj\Debug\WindowsApplication1.Form1.resources
+I:\1\Intro.Pro\2\02112013\02112013\obj\Debug\WindowsApplication1.Resources.resources
+I:\1\Intro.Pro\2\02112013\02112013\obj\Debug\02112013.vbproj.GenerateResource.Cache
+I:\1\Intro.Pro\2\02112013\02112013\obj\Debug\02112013.exe
+I:\1\Intro.Pro\2\02112013\02112013\obj\Debug\02112013.xml
+I:\1\Intro.Pro\2\02112013\02112013\obj\Debug\02112013.pdb

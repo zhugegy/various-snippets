@@ -1,0 +1,10 @@
+D:\1\Intro.Pro\2\99MutiplyTable\99MutiplyTable\bin\Debug\99MutiplyTable.exe.config
+D:\1\Intro.Pro\2\99MutiplyTable\99MutiplyTable\bin\Debug\99MutiplyTable.exe
+D:\1\Intro.Pro\2\99MutiplyTable\99MutiplyTable\bin\Debug\99MutiplyTable.pdb
+D:\1\Intro.Pro\2\99MutiplyTable\99MutiplyTable\bin\Debug\99MutiplyTable.xml
+D:\1\Intro.Pro\2\99MutiplyTable\99MutiplyTable\obj\Debug\WindowsApplication1.Form1.resources
+D:\1\Intro.Pro\2\99MutiplyTable\99MutiplyTable\obj\Debug\WindowsApplication1.Resources.resources
+D:\1\Intro.Pro\2\99MutiplyTable\99MutiplyTable\obj\Debug\99MutiplyTable.vbproj.GenerateResource.Cache
+D:\1\Intro.Pro\2\99MutiplyTable\99MutiplyTable\obj\Debug\99MutiplyTable.exe
+D:\1\Intro.Pro\2\99MutiplyTable\99MutiplyTable\obj\Debug\99MutiplyTable.xml
+D:\1\Intro.Pro\2\99MutiplyTable\99MutiplyTable\obj\Debug\99MutiplyTable.pdb

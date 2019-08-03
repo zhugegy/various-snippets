@@ -1,0 +1,9 @@
+D:\1\Intro.Pro\2\Console1\Console1\bin\Debug\Console1.exe.config
+D:\1\Intro.Pro\2\Console1\Console1\bin\Debug\Console1.exe
+D:\1\Intro.Pro\2\Console1\Console1\bin\Debug\Console1.pdb
+D:\1\Intro.Pro\2\Console1\Console1\bin\Debug\Console1.xml
+D:\1\Intro.Pro\2\Console1\Console1\obj\Debug\ConsoleApplication1.Resources.resources
+D:\1\Intro.Pro\2\Console1\Console1\obj\Debug\Console1.vbproj.GenerateResource.Cache
+D:\1\Intro.Pro\2\Console1\Console1\obj\Debug\Console1.exe
+D:\1\Intro.Pro\2\Console1\Console1\obj\Debug\Console1.xml
+D:\1\Intro.Pro\2\Console1\Console1\obj\Debug\Console1.pdb

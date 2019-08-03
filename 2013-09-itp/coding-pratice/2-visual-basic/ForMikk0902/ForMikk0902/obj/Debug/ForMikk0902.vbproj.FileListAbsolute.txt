@@ -1,0 +1,10 @@
+D:\1\Intro.Pro\2\ForMikk0902\ForMikk0902\bin\Debug\ForMikk0902.exe.config
+D:\1\Intro.Pro\2\ForMikk0902\ForMikk0902\bin\Debug\ForMikk0902.exe
+D:\1\Intro.Pro\2\ForMikk0902\ForMikk0902\bin\Debug\ForMikk0902.pdb
+D:\1\Intro.Pro\2\ForMikk0902\ForMikk0902\bin\Debug\ForMikk0902.xml
+D:\1\Intro.Pro\2\ForMikk0902\ForMikk0902\obj\Debug\WindowsApplication1.Form1.resources
+D:\1\Intro.Pro\2\ForMikk0902\ForMikk0902\obj\Debug\WindowsApplication1.Resources.resources
+D:\1\Intro.Pro\2\ForMikk0902\ForMikk0902\obj\Debug\ForMikk0902.vbproj.GenerateResource.Cache
+D:\1\Intro.Pro\2\ForMikk0902\ForMikk0902\obj\Debug\ForMikk0902.exe
+D:\1\Intro.Pro\2\ForMikk0902\ForMikk0902\obj\Debug\ForMikk0902.xml
+D:\1\Intro.Pro\2\ForMikk0902\ForMikk0902\obj\Debug\ForMikk0902.pdb

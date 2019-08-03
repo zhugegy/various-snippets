@@ -1,0 +1,10 @@
+D:\1\Intro.Pro\2\Journal\Journal\bin\Debug\Journal.exe.config
+D:\1\Intro.Pro\2\Journal\Journal\bin\Debug\Journal.exe
+D:\1\Intro.Pro\2\Journal\Journal\bin\Debug\Journal.pdb
+D:\1\Intro.Pro\2\Journal\Journal\bin\Debug\Journal.xml
+D:\1\Intro.Pro\2\Journal\Journal\obj\Debug\WindowsApplication1.Form1.resources
+D:\1\Intro.Pro\2\Journal\Journal\obj\Debug\WindowsApplication1.Resources.resources
+D:\1\Intro.Pro\2\Journal\Journal\obj\Debug\Journal.vbproj.GenerateResource.Cache
+D:\1\Intro.Pro\2\Journal\Journal\obj\Debug\Journal.exe
+D:\1\Intro.Pro\2\Journal\Journal\obj\Debug\Journal.xml
+D:\1\Intro.Pro\2\Journal\Journal\obj\Debug\Journal.pdb

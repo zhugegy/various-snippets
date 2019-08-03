@@ -1,0 +1,9 @@
+D:\1\Intro.Pro\2010\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+D:\1\Intro.Pro\2010\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+D:\1\Intro.Pro\2010\PictureViewer\PictureViewer\bin\Debug\PictureViewer.xml
+D:\1\Intro.Pro\2010\PictureViewer\PictureViewer\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\1\Intro.Pro\2010\PictureViewer\PictureViewer\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\1\Intro.Pro\2010\PictureViewer\PictureViewer\obj\x86\Debug\PictureViewer.vbproj.GenerateResource.Cache
+D:\1\Intro.Pro\2010\PictureViewer\PictureViewer\obj\x86\Debug\PictureViewer.exe
+D:\1\Intro.Pro\2010\PictureViewer\PictureViewer\obj\x86\Debug\PictureViewer.xml
+D:\1\Intro.Pro\2010\PictureViewer\PictureViewer\obj\x86\Debug\PictureViewer.pdb

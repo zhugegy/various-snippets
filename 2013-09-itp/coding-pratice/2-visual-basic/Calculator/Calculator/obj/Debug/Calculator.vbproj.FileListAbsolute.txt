@@ -1,0 +1,10 @@
+D:\1\Intro.Pro\2\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\1\Intro.Pro\2\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\1\Intro.Pro\2\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\1\Intro.Pro\2\Calculator\Calculator\bin\Debug\Calculator.xml
+D:\1\Intro.Pro\2\Calculator\Calculator\obj\Debug\WindowsApplication1.divide.resources
+D:\1\Intro.Pro\2\Calculator\Calculator\obj\Debug\WindowsApplication1.Resources.resources
+D:\1\Intro.Pro\2\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.Cache
+D:\1\Intro.Pro\2\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\1\Intro.Pro\2\Calculator\Calculator\obj\Debug\Calculator.xml
+D:\1\Intro.Pro\2\Calculator\Calculator\obj\Debug\Calculator.pdb

@@ -1,0 +1,10 @@
+D:\1\Intro.Pro\2\Menu\Menu\bin\Debug\Menu.exe.config
+D:\1\Intro.Pro\2\Menu\Menu\bin\Debug\Menu.exe
+D:\1\Intro.Pro\2\Menu\Menu\bin\Debug\Menu.pdb
+D:\1\Intro.Pro\2\Menu\Menu\bin\Debug\Menu.xml
+D:\1\Intro.Pro\2\Menu\Menu\obj\Debug\WindowsApplication1.Form1.resources
+D:\1\Intro.Pro\2\Menu\Menu\obj\Debug\WindowsApplication1.Resources.resources
+D:\1\Intro.Pro\2\Menu\Menu\obj\Debug\Menu.vbproj.GenerateResource.Cache
+D:\1\Intro.Pro\2\Menu\Menu\obj\Debug\Menu.exe
+D:\1\Intro.Pro\2\Menu\Menu\obj\Debug\Menu.xml
+D:\1\Intro.Pro\2\Menu\Menu\obj\Debug\Menu.pdb

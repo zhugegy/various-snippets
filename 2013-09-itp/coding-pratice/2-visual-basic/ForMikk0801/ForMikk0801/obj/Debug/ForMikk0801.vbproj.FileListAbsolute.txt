@@ -1,0 +1,11 @@
+C:\Users\HP\AppData\Local\Temporary Projects\ForMikk0801\bin\Debug\ForMikk0801.exe.config
+D:\1\Intro.Pro\2\ForMikk0801\ForMikk0801\bin\Debug\ForMikk0801.exe.config
+D:\1\Intro.Pro\2\ForMikk0801\ForMikk0801\bin\Debug\ForMikk0801.exe
+D:\1\Intro.Pro\2\ForMikk0801\ForMikk0801\bin\Debug\ForMikk0801.pdb
+D:\1\Intro.Pro\2\ForMikk0801\ForMikk0801\bin\Debug\ForMikk0801.xml
+D:\1\Intro.Pro\2\ForMikk0801\ForMikk0801\obj\Debug\ForMikk0801.Form1.resources
+D:\1\Intro.Pro\2\ForMikk0801\ForMikk0801\obj\Debug\ForMikk0801.Resources.resources
+D:\1\Intro.Pro\2\ForMikk0801\ForMikk0801\obj\Debug\ForMikk0801.vbproj.GenerateResource.Cache
+D:\1\Intro.Pro\2\ForMikk0801\ForMikk0801\obj\Debug\ForMikk0801.exe
+D:\1\Intro.Pro\2\ForMikk0801\ForMikk0801\obj\Debug\ForMikk0801.xml
+D:\1\Intro.Pro\2\ForMikk0801\ForMikk0801\obj\Debug\ForMikk0801.pdb

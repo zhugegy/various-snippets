@@ -1,0 +1,12 @@
+C:\Users\HP\AppData\Local\Temporary Projects\employees_database\bin\Debug\employees_database.exe
+C:\Users\HP\AppData\Local\Temporary Projects\employees_database\bin\Debug\employees_database.pdb
+C:\Users\HP\AppData\Local\Temporary Projects\employees_database\bin\Debug\employees_database.xml
+C:\Users\HP\AppData\Local\Temporary Projects\employees_database\obj\x86\Debug\employees_database.Form1.resources
+C:\Users\HP\AppData\Local\Temporary Projects\employees_database\obj\x86\Debug\employees_database.Resources.resources
+C:\Users\HP\AppData\Local\Temporary Projects\employees_database\obj\x86\Debug\employees_database.vbproj.GenerateResource.Cache
+C:\Users\HP\AppData\Local\Temporary Projects\employees_database\obj\x86\Debug\employees_database.exe
+C:\Users\HP\AppData\Local\Temporary Projects\employees_database\obj\x86\Debug\employees_database.xml
+C:\Users\HP\AppData\Local\Temporary Projects\employees_database\obj\x86\Debug\employees_database.pdb
+D:\1\Intro.Pro\2010\employees_database\employees_database\obj\x86\Debug\employees_database.exe
+D:\1\Intro.Pro\2010\employees_database\employees_database\obj\x86\Debug\employees_database.xml
+D:\1\Intro.Pro\2010\employees_database\employees_database\obj\x86\Debug\employees_database.pdb

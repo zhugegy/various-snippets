@@ -1,0 +1,8 @@
+C:\Users\HP\AppData\Local\Temporary Projects\StringFunctions\bin\Release\StringFunctions.dll
+C:\Users\HP\AppData\Local\Temporary Projects\StringFunctions\bin\Release\StringFunctions.pdb
+C:\Users\HP\AppData\Local\Temporary Projects\StringFunctions\bin\Release\StringFunctions.xml
+C:\Users\HP\AppData\Local\Temporary Projects\StringFunctions\obj\Release\StringFunctions.Resources.resources
+C:\Users\HP\AppData\Local\Temporary Projects\StringFunctions\obj\Release\StringFunctions.vbproj.GenerateResource.Cache
+C:\Users\HP\AppData\Local\Temporary Projects\StringFunctions\obj\Release\StringFunctions.dll
+C:\Users\HP\AppData\Local\Temporary Projects\StringFunctions\obj\Release\StringFunctions.xml
+C:\Users\HP\AppData\Local\Temporary Projects\StringFunctions\obj\Release\StringFunctions.pdb

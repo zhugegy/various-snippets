@@ -1,0 +1,10 @@
+D:\1\Intro.Pro\2\The Greatest Division\The Greatest Division\bin\Debug\The Greatest Division.exe.config
+D:\1\Intro.Pro\2\The Greatest Division\The Greatest Division\bin\Debug\The Greatest Division.exe
+D:\1\Intro.Pro\2\The Greatest Division\The Greatest Division\bin\Debug\The Greatest Division.pdb
+D:\1\Intro.Pro\2\The Greatest Division\The Greatest Division\bin\Debug\The Greatest Division.xml
+D:\1\Intro.Pro\2\The Greatest Division\The Greatest Division\obj\Debug\WindowsApplication1.Form1.resources
+D:\1\Intro.Pro\2\The Greatest Division\The Greatest Division\obj\Debug\WindowsApplication1.Resources.resources
+D:\1\Intro.Pro\2\The Greatest Division\The Greatest Division\obj\Debug\The Greatest Division.vbproj.GenerateResource.Cache
+D:\1\Intro.Pro\2\The Greatest Division\The Greatest Division\obj\Debug\The Greatest Division.exe
+D:\1\Intro.Pro\2\The Greatest Division\The Greatest Division\obj\Debug\The Greatest Division.xml
+D:\1\Intro.Pro\2\The Greatest Division\The Greatest Division\obj\Debug\The Greatest Division.pdb

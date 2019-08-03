@@ -1,0 +1,10 @@
+D:\1\Intro.Pro\2\SimulationOfGameExp\SimulationOfGameExp\bin\Debug\SimulationOfGameExp.exe.config
+D:\1\Intro.Pro\2\SimulationOfGameExp\SimulationOfGameExp\bin\Debug\SimulationOfGameExp.exe
+D:\1\Intro.Pro\2\SimulationOfGameExp\SimulationOfGameExp\bin\Debug\SimulationOfGameExp.pdb
+D:\1\Intro.Pro\2\SimulationOfGameExp\SimulationOfGameExp\bin\Debug\SimulationOfGameExp.xml
+D:\1\Intro.Pro\2\SimulationOfGameExp\SimulationOfGameExp\obj\Debug\WindowsApplication1.Form1.resources
+D:\1\Intro.Pro\2\SimulationOfGameExp\SimulationOfGameExp\obj\Debug\WindowsApplication1.Resources.resources
+D:\1\Intro.Pro\2\SimulationOfGameExp\SimulationOfGameExp\obj\Debug\SimulationOfGameExp.vbproj.GenerateResource.Cache
+D:\1\Intro.Pro\2\SimulationOfGameExp\SimulationOfGameExp\obj\Debug\SimulationOfGameExp.exe
+D:\1\Intro.Pro\2\SimulationOfGameExp\SimulationOfGameExp\obj\Debug\SimulationOfGameExp.xml
+D:\1\Intro.Pro\2\SimulationOfGameExp\SimulationOfGameExp\obj\Debug\SimulationOfGameExp.pdb
