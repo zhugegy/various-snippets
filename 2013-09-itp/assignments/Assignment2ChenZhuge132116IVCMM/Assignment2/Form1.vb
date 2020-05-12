@@ -78,7 +78,8 @@
                 End If
             Loop
             If Int((min + max) / 2) < 10 Then
-                ListBox1.Items.Add("    " & Int((min + max) / 2) & " - " & counter) 'if number is 1-9, give an extra space after the number to keep the sort tidy.
+                'if number is 1-9, give an extra space after the number to keep the sort tidy.
+                ListBox1.Items.Add("    " & Int((min + max) / 2) & " - " & counter)
             Else
                 ListBox1.Items.Add("    " & Int((min + max) / 2) & "- " & counter)
             End If
