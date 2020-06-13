@@ -1,0 +1,11 @@
+1.Why is the IntSumReducer class in the WordCount example used not only as reducer (job.setReducerClass) but also as a combiner (job.setCombinerClass).
+
+IntSumReducer class is used twice as reducer and combiner, because the basic algorithm of reducer and combiner are very similar. The combiner could be regarded as a mini-reducer, which is running in intermediate files, after the map phase and before the reduce phase. The combiner does the similar job as reducer to reduce together the value of same key, but separately in each node.
+
+2.What advantages (if any) does it provide?
+
+The advanced job done by combiner can reduce the network traffic between intermediate files and reducers, especially when we do complicated computation in which a single key could has hundred or thousand values. A huge numbers of combination between one key and its values will be converted into only one combination before transfer, hence it can provide improvement of system performance.
+
+3.Can all possible Reduce functions be used like this? Why?
+
+Not all of them. The usage of combiner could provide improvement only if each single key in each node has enough times of value to reduce, otherwise combiner could slow down the whole system due to the complexity it causes.
